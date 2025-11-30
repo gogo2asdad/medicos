@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://medicos.laboratoriocelada.com.ar/index_sitemap.xml
